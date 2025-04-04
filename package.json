@@ -1,8 +1,0 @@
-{
-  "name": "node",
-  "version": "2.1.5",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {}
-}
